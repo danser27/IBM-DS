@@ -1,2 +1,3 @@
-# IBM-DS
-This is a repository for IBM DS certificate on Coursera.
+# IBM Data Science Professional Certificate
+
+This is a repository for the professional certificate in DS at IBM.
